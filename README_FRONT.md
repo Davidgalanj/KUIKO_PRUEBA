@@ -1,4 +1,4 @@
-Pasos para desplegar el proyecto =>
+Pasos para desplegar el proyecto =>  (pruebaTecnicaFE.rar)
 
 1-Abrir el Visual Studio (Con el node instalado para poder lanzar la aplicación)
 
