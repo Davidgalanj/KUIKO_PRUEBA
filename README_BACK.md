@@ -1,4 +1,4 @@
-Pasos para desplegar el proyecto =>
+Pasos para desplegar el proyecto => (pruebaTecnicaBE.rar)
 
 1-Abrir el eclipse
 
